@@ -1,0 +1,81 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="17">
+            <item index="0" class="java.lang.String" itemvalue="locust" />
+            <item index="1" class="java.lang.String" itemvalue="robotframework-sshlibrary" />
+            <item index="2" class="java.lang.String" itemvalue="pytest" />
+            <item index="3" class="java.lang.String" itemvalue="tabulate" />
+            <item index="4" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="5" class="java.lang.String" itemvalue="robotframework" />
+            <item index="6" class="java.lang.String" itemvalue="requests" />
+            <item index="7" class="java.lang.String" itemvalue="pssh" />
+            <item index="8" class="java.lang.String" itemvalue="zstandard" />
+            <item index="9" class="java.lang.String" itemvalue="assertpy" />
+            <item index="10" class="java.lang.String" itemvalue="pandas" />
+            <item index="11" class="java.lang.String" itemvalue="edgegrid-python" />
+            <item index="12" class="java.lang.String" itemvalue="paramiko" />
+            <item index="13" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="14" class="java.lang.String" itemvalue="lark" />
+            <item index="15" class="java.lang.String" itemvalue="lxml" />
+            <item index="16" class="java.lang.String" itemvalue="azure-storage-blob" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W605" />
+          <option value="E501" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N803" />
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="mdsqa_python3_automation.automation.lib.Ghost_rf_logParser.beautifultable" />
+          <option value="mdsqa_python3_automation.automation.lib.Ghost_rf_logParser.*" />
+          <option value="urllib.parse" />
+          <option value="MR_Initialize" />
+          <option value="drs_qa_automation.Media_Reports.util.Perforce.Media_Reports" />
+          <option value="drs_qa_automation.Media_Reports.Fast_Reports.log_ingestor.log_ingestor.Media_Reports" />
+          <option value="drs_qa_automation.breeze.lib.proto_reader.breeze" />
+          <option value="drs_qa_automation.Media_Reports.Fast_Reports.FR_DataVal_util.Media_Reports" />
+          <option value="drs_qa_automation.Media_Reports.Fast_Reports.FR_utils.Media_Reports" />
+          <option value="hostname_open_api" />
+          <option value="drs_qa_automation.Media_Reports.ClassicMigration.DataComparsion.Media_Reports" />
+          <option value="str.contains" />
+          <option value="autopep8.List.__getitem__" />
+          <option value="list.get_json" />
+          <option value="tests.asgard.azure_sas_key" />
+          <option value="list.startswith" />
+          <option value="random.random.choice" />
+          <option value="tests.asgard.system_healthcheck.test_system_health.*" />
+          <option value="tests.asgard.asqs.test_asqs_with_clause.TableAndTopic" />
+          <option value="common.rest.response_type.BaseResponse.__getitem__" />
+          <option value="tuple.response_json" />
+          <option value="dict.ingress_file" />
+          <option value="tuple.with_parser_arguments" />
+          <option value="list.find" />
+          <option value="dict.add" />
+          <option value="common.asgard.client_managers.response_utils.response_base.AsgardServiceResponse.__getitem__" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="RobotImportNotFound" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RobotKeywordNotFound" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="RobotVariableNotFound" enabled="false" level="ERROR" enabled_by_default="false" />
+  </profile>
+</component>
